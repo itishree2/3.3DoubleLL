@@ -1,0 +1,7 @@
+D:\practice project\Phase1Selection4.7c\Phase1Selection4.7c\bin\Debug\Phase1Selection4.7c.exe.config
+D:\practice project\Phase1Selection4.7c\Phase1Selection4.7c\bin\Debug\Phase1Selection4.7c.exe
+D:\practice project\Phase1Selection4.7c\Phase1Selection4.7c\bin\Debug\Phase1Selection4.7c.pdb
+D:\practice project\Phase1Selection4.7c\Phase1Selection4.7c\obj\Debug\Phase1Selection4.7c.csproj.AssemblyReference.cache
+D:\practice project\Phase1Selection4.7c\Phase1Selection4.7c\obj\Debug\Phase1Selection4.7c.csproj.CoreCompileInputs.cache
+D:\practice project\Phase1Selection4.7c\Phase1Selection4.7c\obj\Debug\Phase1Selection4.7c.exe
+D:\practice project\Phase1Selection4.7c\Phase1Selection4.7c\obj\Debug\Phase1Selection4.7c.pdb
